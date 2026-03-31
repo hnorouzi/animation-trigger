@@ -167,6 +167,6 @@ Open a Pull Request
 📧 Contact
 GitHub: @hnorouzi
 
-Email: hnorouzi@example.com
+Email: hamidreza.norouzi1997@gmail.com
 
 Made with ❤️ by Hamidreza Norouzi
