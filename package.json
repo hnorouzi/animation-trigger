@@ -1,0 +1,38 @@
+{
+  "name": "animation-trigger",
+  "version": "1.0.1",
+  "description": "Simple animation trigger for multiple elements with one click",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "animation",
+    "trigger",
+    "click",
+    "dom",
+    "css-animation"
+  ],
+  "author": {
+    "name": "Hamidreza Norouzi",
+    "url": "https://github.com/hnorouzi"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnorouzi/animation-trigger.git"
+  },
+  "devDependencies": {
+    "tsup": "^8.0.0",
+    "typescript": "^5.6.3",
+    "@types/react": "^18.2.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0"
+  }
+}
