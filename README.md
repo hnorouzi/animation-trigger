@@ -7,6 +7,10 @@ A simple, lightweight JavaScript library to animate multiple elements with custo
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://36kxph.csb.app/)
 
+
+## 🎬 Video Tutorial
+[Watch on YouTube](https://your-video-link)
+
 ## ✨ Features
 
 - 🚀 **Simple API** - Just 3 lines of code!
