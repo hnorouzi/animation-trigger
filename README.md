@@ -9,7 +9,7 @@ A simple, lightweight JavaScript library to animate multiple elements with custo
 
 
 ## 🎬 Video Tutorial
-[Watch on YouTube](https://your-video-link)
+[Watch on YouTube](https://www.youtube.com/watch?v=36ng412AUbI)
 
 ## ✨ Features
 
